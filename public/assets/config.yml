@@ -2,9 +2,9 @@
 # Homepage configuration
 # See https://fontawesome.com/icons for icons options
 
-title: "Demo dashboard"
-subtitle: "Homer"
-logo: "logo.png"
+title: "Servicedesk Intranet"
+subtitle: "Joyn-group"
+logo: "logo_joyn.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
 header: false
@@ -159,5 +159,3 @@ services:
         subtitle: "Monitoria de Certificados SSL e Dominios"
         
         url: "https://monitor.joyn-group.com:8000"
-
-  
