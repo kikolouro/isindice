@@ -111,7 +111,6 @@ services:
         
         url: "https://portal.azure.com/"  
 
- 
   - name: "ServiceDesk"
     icon: "fas fa-headset"
     items:
@@ -141,9 +140,19 @@ services:
         
         url: "https://admin.microsoft.com"
       - name: "Documentação"
-        #logo: "assets/img/sample.png"
         icon: "fab fa-google-drive"
-        subtitle: "Ferramenta de inventario."
+        subtitle: "Google Drive Share"
+        url: "https://drive.google.com/drive/folders/1-I6M928bN-o2xiygblPSFrYCNmsRLxR_"
+
+      - name: "MailSender Qualidade"
+        icon: "fas fa-mail-bulk"
+        subtitle: "Ambiente de Qualidade do MailSender"
+        url: "https://mailsender_qual.joyn-group.com"
+
+      - name: "MailSender"
+        icon: "fas fa-mail-bulk"
+        subtitle: "Ambiente de Produção do MailSender"
+        url: "https://mailsender.joyn-group.com"
   - name: "Monitoring"
     icon: "fas fa-chart-line"
     items:
